@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "firebase": "^12.14.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^9.0.0",
     "rollup-plugin-postcss": "^4.0.2",
     "rxfire": "^3.8.6",
     "rxjs": "^6.5.3",
